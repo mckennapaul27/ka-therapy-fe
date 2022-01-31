@@ -14,11 +14,13 @@ class Footer extends Component {
                                 <div className='logo'>
                                     <Link href='/'>
                                         <a>
-                                            {/* <img
-                                                src={require('../images/logo-black-transparent.png')}
+                                            <img
+                                                src={
+                                                    '/logo-black-transparent.png'
+                                                }
                                                 alt='image'
                                                 style={{ maxWidth: '200px' }}
-                                            /> */}
+                                            />
                                         </a>
                                     </Link>
                                 </div>
