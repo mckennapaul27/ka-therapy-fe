@@ -9,9 +9,8 @@ class ContactInfo extends Component {
                     <div className='section-title'>
                         <h2>Contact</h2>
                         <p>
-                            KA-Therapy offers services in Manchester City
-                            Centre, Stockport, Wilmslow and surrounding areas.
-                            Please contact us below.
+                            KA-Therapy offers services in Wilmslow and accross
+                            the UK via online platforms.
                         </p>
                     </div>
                     <div className='row'>
@@ -36,8 +35,8 @@ class ContactInfo extends Component {
                                 </div>
                                 <h3>My Clinic</h3>
                                 <p>
-                                    Manchester City Centre, Stockport, Wilmslow
-                                    &amp; surrounding areas
+                                    KA-Therapy offers services in Wilmslow and
+                                    accross the UK via online platforms.
                                 </p>
                             </div>
                         </div>

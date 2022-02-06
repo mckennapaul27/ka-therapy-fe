@@ -36,6 +36,64 @@ class MainBanner extends Component {
                                                     {this.props.buttonText}
                                                 </a>
                                             </Link>
+                                            <div
+                                                style={{
+                                                    marginTop: '24px',
+                                                }}>
+                                                <a
+                                                    href='https://uk.trustpilot.com/review/ka-therapy.co.uk'
+                                                    target='_blank'
+                                                    rel='noreferrer'
+                                                    style={{
+                                                        backgroundColor:
+                                                            '#ffffff',
+                                                        padding:
+                                                            '4px 10px 8px 10px',
+                                                        borderRadius: '8px',
+                                                        marginRight: '16px',
+                                                    }}>
+                                                    <img
+                                                        src='/trust-pilot-logo.png'
+                                                        alt=''
+                                                        height={18}
+                                                    />
+                                                </a>
+                                                <a
+                                                    href='https://www.facebook.com/katherapy20'
+                                                    target='_blank'
+                                                    rel='noreferrer'
+                                                    style={{
+                                                        backgroundColor:
+                                                            '#83c5be',
+                                                        color: '#ffffff',
+                                                        borderRadius: '50%',
+                                                        width: '30px',
+                                                        height: '30px',
+                                                        lineHeight: '30px',
+                                                        textAlign: 'center',
+                                                        position: 'relative',
+                                                        marginRight: '8px',
+                                                    }}>
+                                                    <i className='icofont-facebook'></i>
+                                                </a>
+                                                <a
+                                                    href='https://www.instagram.com/ka_therapy20'
+                                                    target='_blank'
+                                                    rel='noreferrer'
+                                                    style={{
+                                                        backgroundColor:
+                                                            '#83c5be',
+                                                        color: '#ffffff',
+                                                        borderRadius: '50%',
+                                                        width: '30px',
+                                                        height: '30px',
+                                                        lineHeight: '30px',
+                                                        textAlign: 'center',
+                                                        position: 'relative',
+                                                    }}>
+                                                    <i className='icofont-instagram'></i>
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
 

@@ -8,17 +8,17 @@
         "lint": "next lint"
     },
     "dependencies": {
+        "@apollo/client": "^3.5.6",
         "axios": "^0.25.0",
-        "next": "12.0.9",
-        "react": "17.0.2",
-        "react-dom": "17.0.2",
-        "react-modal-video": "^1.2.8",
         "cloudinary-build-url": "^0.2.4",
         "dayjs": "^1.10.7",
         "dotenv": "^10.0.0",
         "graphql": "^16.2.0",
         "markdown-to-jsx": "^7.1.5",
-        "@apollo/client": "^3.5.6",
+        "next": "12.0.9",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "react-modal-video": "^1.2.8",
         "sass": "^1.43.4"
     },
     "devDependencies": {

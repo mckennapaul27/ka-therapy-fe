@@ -26,9 +26,8 @@ class Footer extends Component {
                                 </div>
 
                                 <p>
-                                    KA-Therapy offers services in Manchester
-                                    City Centre, Stockport, Wilmslow and
-                                    surrounding areas.
+                                    KA-Therapy offers services in Wilmslow and
+                                    accross the UK via online platforms.
                                 </p>
 
                                 <ul className='social-links'>

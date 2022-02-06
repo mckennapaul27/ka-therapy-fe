@@ -16,7 +16,10 @@ export default function Testimonials({ globalData, testimonials }) {
                     {testimonials.map((item) => (
                         <div key={item.id}>
                             <h6>
-                                {item.attributes.type}. {item.attributes.date}.{' '}
+                                {item.attributes.type}
+                                {item.attributes.date
+                                    ? `${' '}${item.attributes.date}`
+                                    : null}{' '}
                                 {item.attributes.name}
                             </h6>
                             <MarkdownContent body={item.attributes.content} />
